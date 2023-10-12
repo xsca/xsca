@@ -1,0 +1,91 @@
+points:
+  6.0.0.43:
+  - NjEuMTExLjEyOS4xNDM6MzU1MzM=
+  6.6.1.1:
+  - aGlwZXIubWluZW5vYWgudG9wOjY1NTMz
+  6.6.6.6:
+  - MTI0LjIyMi42LjE5OTo2NTUzMw==
+  7.7.1.1:
+  - OC4yMTAuMzguMjQ0OjY1NTMz
+  6.0.0.108:
+  - MTAxLjQzLjIxNS4xNDk=
+  6.0.0.116:
+  - OC4xNDAuMjQ1LjExOA==
+  6.0.0.74:
+  - OC4xNDEuODkuNA==
+  6.0.0.149:
+  - MTIzLjE2MC4xMC4yMTA=
+  7.255.255.1:
+  - NDcuMjQzLjIwMy4xNzI=
+  7.255.255.2:
+  - NDcuMjQzLjExMS43Mg==
+  7.255.255.3:
+  - OC4yMTcuMTkwLjEzNg==
+  7.255.255.4:
+  - OC4yMTAuMTQuNDI=
+  7.255.255.5:
+  - NDcuMjQzLjIwNS4xOA==
+  7.255.255.6:
+  - OC4xMzQuODcuMTU0
+  7.255.255.7:
+  - OC4xMzQuMTcwLjIzMw==
+  7.255.255.8:
+  - OC4xMzQuMTQ5LjE3Ng==
+  7.255.255.9:
+  - OC4xMzQuOTMuMTI4
+  7.255.255.10:
+  - OC4xMzQuMTUxLjMz
+  7.255.255.11:
+  - NDcuMTIyLjIyLjE4Mg==
+  7.255.255.12:
+  - NDcuMTIyLjEuODM=
+  7.255.255.13:
+  - NDcuMTIyLjQuNDU=
+  7.255.255.14:
+  - NDcuMTIyLjI1LjIwMA==
+  7.255.255.15:
+  - NDcuMTIyLjIzLjE2Ng==
+  7.255.255.16:
+  - MTIwLjI2LjQ1LjE4OQ==
+  7.255.255.17:
+  - NDcuMTExLjE4My4xNjk=
+  7.255.255.18:
+  - NDcuMTExLjE4NC42OQ==
+  7.255.255.19:
+  - MTIwLjU1LjE4MS4yMw==
+  7.255.255.20:
+  - NDcuOTguNDguMTE0
+  7.255.255.21:
+  - NDcuMTExLjgxLjEzOQ==
+  7.255.255.22:
+  - NDcuOTkuMTYxLjIw
+  7.255.255.23:
+  - NDcuOTcuMjE0LjExMA==
+  7.255.255.24:
+  - NDcuMTExLjE1Mi4xNTM=
+  7.255.255.25:
+  - NDcuMTExLjE4MC4xMDU=
+  7.255.255.26:
+  - OC4xMzcuNjAuMjUz
+  7.255.255.27:
+  - OC4xMzcuMjEuMjQw
+  7.255.255.28:
+  - NDcuMTA5LjEwOS4xOA==
+  7.255.255.29:
+  - NDcuMTA4LjQ4LjIz
+  7.255.255.30:
+  - NDcuMTA4LjE2OS4yMjQ=
+  7.255.255.31:
+  - MTgyLjkyLjExOS4zNg==
+  7.255.255.32:
+  - MTIzLjU2LjY2LjYx
+  7.255.255.33:
+  - MzkuMTA2LjkuMjEx
+  7.255.255.34:
+  - MTIzLjU3LjE2Ny4xMjY=
+  7.255.255.35:
+  - MTgyLjkyLjcwLjEzOQ==
+
+sync:
+  store: "https://gitcode.net/to/vlan/-/raw/master/"
+  addition: "https://gitcode.net/to/vlan/-/raw/master/point.yml"
